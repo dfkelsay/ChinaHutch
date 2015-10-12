@@ -1,0 +1,8 @@
+So, from my reading up on and learning about in this quarter's ITC102 class, DNS (domain name server) basically helps make life 
+2 easier when surfing the web. Instead of inputting an IP (Internet Protocol) number into the search bar on your computer, you  
+3 can detect where it is you would like to go with a website name because the DNS does the work to connect you. It is like the GPS 
+4 of the internet. With that being said, you can bypass a DNS altogether by imputting the IP number, but using a DNS you are still 
+5 involving your IP (just without really noticing it), because that is ultimately the destination. Emails work the same way. You 
+6 basically text message someone, enter a destination and the DNS will route it where you want it to go but resolving the domain  
+7 name into the IP address. 
+Enter file contents here
