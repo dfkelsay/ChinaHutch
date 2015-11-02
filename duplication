@@ -1,0 +1,6 @@
+I looked into how to avoid duplicating information while sorting database documents, and it prompted me to look into filtering 
+to keep things simple. It reminded me of how we have a Spam folder conjoined with our emails. There is always going to be things
+that don't pertain, it's just how to weed it out.
+https://www.manageengine.com/products/eventlog/help/system-settings/define-eventlog-filters.html
+The link listed above is where I arrived for directions on how to prevent unwanted hosts from entering your database to save
+room for the things that are needed/wanted.
